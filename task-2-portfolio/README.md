@@ -32,8 +32,8 @@ and improve patient outcomes.
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/farah-raza-56879337a?utm_source=share_via&utm_content=profile&utm_medium=member_android) *(update with your LinkedIn URL)*
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/Farah-Raza-2?ev=hdr_xprf) *(update with your ResearchGate URL)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/farah-raza-56879337a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Farah-Raza-2?ev=hdr_xprf) 
 
 ---
 
