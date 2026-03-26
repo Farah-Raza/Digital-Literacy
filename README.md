@@ -37,7 +37,7 @@ The portfolio is organized across **five tasks**, each mapping to one module of 
 ---
 
 ## 📁 Repository Structure
-
+```
 digital-literacy-project/
 │
 ├── README.md                              ← You are here
@@ -74,7 +74,7 @@ digital-literacy-project/
     ├── casestudy.md                       ← UPI fraud case study
     └── prevention-checklist.md            ← Stay Safe Online checklist
     └── Project Report Task 5.md           ← Brief description
-
+```
 ___
 
 ## 📝 Task Summaries
