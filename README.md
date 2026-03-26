@@ -97,9 +97,9 @@ Set up professional profiles on three platforms to build a foundational digital 
 
 | Platform | Purpose | Profile Link |
 |---|---|---|
-| **GitHub** | Code hosting, portfolio, open source | *(your GitHub profile URL)* |
-| **LinkedIn** | Professional networking, internships | *(your LinkedIn URL)* |
-| **Kaggle** | Data science learning and competitions | *(your Kaggle URL)* |
+| **GitHub** | Code hosting, portfolio, open source | *(https://github.com/Farah-Raza)* |
+| **LinkedIn** | Professional networking, internships | *(https://www.linkedin.com/in/farah-raza-56879337a?utm_source=share_via&utm_content=profile&utm_medium=member_android)* |
+| **Research Gate** | Data science learning and competitions | *(https://www.researchgate.net/profile/Farah-Raza-2?ev=hdr_xprf)* |
 
 GitHub profile README includes name, branch, year, and learning goals.
 
