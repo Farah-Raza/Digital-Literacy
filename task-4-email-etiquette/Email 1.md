@@ -25,7 +25,6 @@ Thank you very much for your time and consideration. I look forward to your resp
  
 Warm regards,
 Farah Raza
-B.Tech – CSE Health Informatics
-Roll No.: 25Bhi10027
+
 
  
