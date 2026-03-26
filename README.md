@@ -76,7 +76,8 @@ digital-literacy-project/
     └── prevention-checklist.md            ← Stay Safe Online checklist
     └── Project Report Task 5.md           ← Brief description
 
----
+
+___
 
 ## 📝 Task Summaries
 
