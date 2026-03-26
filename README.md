@@ -38,7 +38,6 @@ The portfolio is organized across **five tasks**, each mapping to one module of 
 
 ## 📁 Repository Structure
 
-```
 digital-literacy-project/
 │
 ├── README.md                              ← You are here
@@ -76,7 +75,6 @@ digital-literacy-project/
     └── prevention-checklist.md            ← Stay Safe Online checklist
     └── Project Report Task 5.md           ← Brief description
 
-```
 ___
 
 ## 📝 Task Summaries
