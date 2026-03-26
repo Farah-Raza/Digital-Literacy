@@ -12,7 +12,7 @@ Two professional emails have been written and saved in this folder.
 
 | Field | Detail |
 |---|---|
-| **From** | Student (Aarav Mehta) |
+| **From** | Student (Farah Raza) |
 | **To** | Professor |
 | **Subject** | Request for Assignment Submission Extension – Data Structures (CS301) |
 | **Purpose** | Requesting a 2-day extension due to illness, with a polite, structured, and accountable tone |
@@ -21,7 +21,7 @@ Two professional emails have been written and saved in this folder.
 
 | Field | Detail |
 |---|---|
-| **From** | Student (Aarav Mehta) |
+| **From** | Student (Farah Raza) |
 | **To** | Internship Coordinator at Technovance Technologies |
 | **Subject** | Application for Summer Internship Opportunity – Computer Science Student (May–July 2026) |
 | **Purpose** | Expressing genuine interest in an internship, highlighting relevant skills and attaching documents |
